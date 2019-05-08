@@ -1,0 +1,9 @@
+Pineapple: 1pcs * 5$ = 5$.
+Watermelon: 2pcs * 4$ = 8$.
+Avocado: 4pcs * 5$ = 20$.
+Pastries: 1pcs * 2$ = 2$.
+Cheddar: 1pcs * 5$ = 5$.
+
+
+
+Total Price: 40$.

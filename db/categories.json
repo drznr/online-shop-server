@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c9f6e36eeae7b3cfcc97c45"},"title":"Milk & Dairies","__v":{"$numberInt":"0"},"status":""}
+{"_id":{"$oid":"5c9f6e7feeae7b3cfcc97c46"},"title":"Fruits & Vegetables","__v":{"$numberInt":"0"},"status":""}
+{"_id":{"$oid":"5c9f72bb876dfd30e06afe46"},"title":"Meat & Fish","__v":{"$numberInt":"0"},"status":""}
+{"_id":{"$oid":"5c9f7350876dfd30e06afe47"},"title":"Bakery","__v":{"$numberInt":"0"},"status":""}
+{"_id":{"$oid":"5ca4eceb6e5f6a758cbf82ae"},"title":"Beverages","status":"","__v":{"$numberInt":"0"}}
